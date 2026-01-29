@@ -20,4 +20,17 @@ double prPerson = total/pep;
 System.out.println(prPerson);
 
 
+    //opgave 3
+    double OGprice = 300;
+    double discount = 20;
+    double off = (OGprice-(OGprice*(discount/100)));
+double tax = 25;
+double FinalPrice = off+(off*tax/100);
+System.out.println(OGprice);
+System.out.println(off);
+System.out.println(FinalPrice);
+
+
+
+
 }
