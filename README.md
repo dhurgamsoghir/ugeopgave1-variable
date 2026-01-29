@@ -1,3 +1,3 @@
 # ugeopgave1-variable
 Dhurgam Soghir
-dhurgamsoghir07@gmail.com
+dhurgamsoghir5@gmail.com
